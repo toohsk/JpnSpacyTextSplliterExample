@@ -47,6 +47,7 @@ In that file, add the `userDict` key and the user dictionary path as that value.
     "userDict": [".sudachi_dict/user.dict"],
     "inputTextPlugin" : [
         ...
+    ]
 }
 ```
 
