@@ -1,3 +1,6 @@
+# Generated user dictionary
+.sudachi_dict/user.dict
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
